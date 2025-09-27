@@ -1,0 +1,54 @@
+{
+  "title": "Quantum Kick Cosmogenesis (QKC)",
+  "author": "Quincy Jones",
+  "date": "2025-09-27",
+  "contact": "calqllc86@gmail.com",
+  "abstract": "Quantum Kick Cosmogenesis (QKC) proposes that the universe originated through a quantum impulse imprinting harmonic spiral structures—based on the golden ratio (φ ≈ 1.618) and √7—into the fabric of spacetime. These imprints manifest as variance suppression patterns in the Cosmic Microwave Background (CMB), observed through Planck 2018 SMICA and WMAP9 data. Spiral analysis reveals 15–21% suppression along these paths with empirical p-values ranging from 0.001 to 0.02. This paper presents the theoretical framework, methodology, results, and cosmological implications of QKC.",
+  "keywords": [
+    "Cosmic Microwave Background",
+    "Spiral Suppression",
+    "Golden Ratio",
+    "Quantum Cosmogenesis",
+    "Planck SMICA",
+    "Fractal Universe"
+  ],
+  "sections": {
+    "introduction": "The ΛCDM model dominates contemporary cosmology, yet persistent anomalies in the CMB suggest underlying structure. QKC challenges the assumption of randomness in the early universe, proposing a cyclical rebirth initiated by a quantum impulse. This 'kick' imprints recursive spiral geometries governed by constants such as the golden ratio and √7. These geometries drive the emergence of structure and suppress random variance in the CMB, offering an empirical signature of harmonic order.",
+    "methods": "Spiral Analysis evaluates directional variance suppression in CMB temperature and polarization maps. Logarithmic spirals parameterized by φ and √7 were overlaid on Planck 2018 SMICA and WMAP9 maps. Variance profiles were computed recursively along each path. Empirical significance was estimated using randomized null trajectories. Pre-registration included predicting a suppression dip at the golden angle (~137.5°).",
+    "results": "Spiral suppression was consistently observed across maps, with variance reductions ranging from 15% to 21%. Empirical p-values fell between 0.001 and 0.02. The golden angle dip was confirmed in SEVEM maps and polarization data. Bayes factor of 13.4 favored the spiral model. Figures include convergence patterns, residual distributions, and suppression maps.",
+    "discussion": "The spiral suppression signatures observed in the CMB suggest that early universe conditions were not fully stochastic. Instead, they hint at underlying order seeded by a harmonic quantum event. The predicted golden angle dip and variance minima across independent maps reinforce this claim. Quantum Kick Cosmogenesis offers a natural mechanism: the imprint of recursive geometry during a Big Bounce-like rebirth of the universe. Entangled constants, Yin-Yang balance, and recursive multiverse branching provide explanatory scaffolding.",
+    "conclusion": "QKC presents a coherent, empirically supported model of structured cosmogenesis. With consistent variance suppression aligned with φ and √7 spirals, statistical significance across multiple datasets, and predictive power confirmed in held-out SEVEM maps, QKC stands as a candidate theory worthy of further exploration."
+  },
+  "appendices": {
+    "A": "Description of Spiral Tree model (Yin-Yang, Fibonacci, Entanglement, Multiverse).",
+    "B": "Code for spiral_analysis.py available under MIT license. Performs recursive suppression analysis using logarithmic spirals on CMB maps."
+  },
+  "figures": [
+    {
+      "file": "FIGURE 1.png",
+      "caption": "Correlation dip observed at ~137.5° (the golden angle) in held-out SEVEM and WMAP9 maps. This pre-registered prediction confirms the harmonic imprint hypothesis."
+    },
+    {
+      "file": "FIGURE 2.png",
+      "caption": "Top-ranked spiral paths by suppression ratio computed via Spiral Analysis. All paths converge within the Jones target band."
+    },
+    {
+      "file": "FIGURE 3.png",
+      "caption": "Spiral path overlay on Planck 2018 SMICA temperature map. Red markers trace the sampled φ-based spiral used in suppression analysis."
+    },
+    {
+      "file": "FIGURE 4.png",
+      "caption": "Recursive convergence of suppression signature Σ for α φ-based spiral path originating at (θ = 0.50, φ=1.5). The red band indicates the Jones target range."
+    },
+    {
+      "file": "FIGURE 5.png",
+      "caption": "Recursive convergence of suppression signature Σ for a φ-based spiral path originating at (θ = 0.50, φ=1.50). The red band indicates the Jones target range. Final value: Σ ≈ 0.2097."
+    },
+    {
+      "file": "Cosmic Tree of Eternity.png",
+      "caption": "Conceptual illustration of the Cosmic Tree of Eternity, representing multiverse branching and harmonic structure."
+    }
+  ],
+  "code": "spiral_analysis.py",
+  "license": "MIT"
+}
